@@ -6,7 +6,7 @@ I'm a web developer proficient with modern [PHP](https://github.com/php/php-src)
 
 I'm the author and maintainer of several open-source tools, including but not limited to:
 
-- [Naja](https://github.com/jiripudil/Naja), a modern AJAX library for Nette Framework,
+- [Naja](https://github.com/naja-js/naja), a modern AJAX library for Nette Framework,
 - [contributte/webpack](https://github.com/contributte/webpack), a Webpack adapter for Nette Framework,
 - [contributte/validator](https://github.com/contributte/validator), an integration of Symfony's Validator component into Nette Framework.
 
