@@ -1,8 +1,8 @@
 # Hello 👋 I am Jiří Pudil
 
-> I turn ☕ into `<code />`
+I'm a software developer from Brno, CZ 🇨🇿
 
-I'm a web developer proficient with modern [PHP](https://github.com/php/php-src) using [Nette Framework](https://github.com/nette), and [TypeScript](https://github.com/microsoft/TypeScript) with [React](https://github.com/facebook/react).
+I am most proficient with modern PHP using Nette Framework, and TypeScript with Node.js and React, with a bit of this and that on the side, including Python, Rust, Kotlin, or Swift.
 
 I'm the author and maintainer of several open-source tools, including but not limited to:
 
